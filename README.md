@@ -431,8 +431,7 @@ def crack_select():
     print ''
     raw_input(' \x1b[1;92m Press Enter To Go Back ! ')
     menu()
-    
-#Thanks TechQaiser & Also SyedZada Bro
+   
 
 if __name__ == '__main__':
     main()
